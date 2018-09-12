@@ -1,0 +1,74 @@
+.header
+{
+	background-color: lightblue;
+	min-height: 120px;
+	/*margin-bottom: 10px;*/
+}
+
+.banner
+{
+	background-color: blue;
+	min-height: 300px;
+	/*margin-bottom: 10px;*/
+}
+.services
+{
+	border: 5px solid red;
+	min-height: 250px;
+	overflow: hidden;
+}
+.serve
+{
+	min-height: 240px;
+	background-color: orange;
+	float: left;
+	margin: 8px;
+}
+.service1
+{
+	width: 32%;
+}
+.service2
+{
+	width: 32%;
+}
+.service3
+{
+	width: 32%;
+}
+.about
+{
+	background-color: brown;
+	min-height: 250px;
+	/*margin-bottom: 10px;*/
+}
+.footer
+{
+	border: 5px solid lightblue;
+	min-height: 100px;
+}
+.con1
+{
+	min-height: 30px;
+	border: 5px solid lightblue;
+	/*margin-top: 10px;*/
+	/*margin-bottom: 10px;*/
+	margin: 10px auto;
+}
+.con2
+{
+	min-height: 20px;
+	border: 5px solid lightblue;
+	margin: 5px auto;
+}
+.contact1
+{
+    width: 40%;
+    float: top;
+    /*overflow: hidden;*/
+}
+.contact2
+{
+    width: 30%;
+    float: bottom;
+}
